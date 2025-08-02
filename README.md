@@ -1,2 +1,5 @@
 # Car-Price-Predictor
-Car Price Predictor 🚗💸 A machine learning web application that predicts the resale price of used cars based on inputs like brand, year, kilometers driven, and fuel type. Built using Python, Scikit-learn, and Flask for real-time predictions.
+Car Price Predictor 🚗💹
+A production-ready machine learning application designed to forecast the resale value of pre-owned vehicles with high precision. The system leverages extensive data preprocessing pipelines, categorical encoding, and numerical feature scaling to optimize model performance. Trained on historical automobile market data using Scikit-learn regression algorithms, the model captures complex nonlinear relationships between parameters such as brand reputation, manufacturing year, mileage, and fuel type.
+
+The solution is deployed via a Flask-based RESTful API, integrated with a responsive HTML/CSS front-end, enabling real-time user interaction. Emphasis is placed on modular code structure, maintainability, and reproducibility, supported by a well-documented workflow and requirements management for easy deployment across environments. This project showcases practical expertise in end-to-end ML lifecycle management — from data ingestion and model training to deployment and user experience design.
